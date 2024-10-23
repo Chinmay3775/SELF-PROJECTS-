@@ -11,3 +11,7 @@ I created a **Simple Calculator** using **HTML, CSS, and JavaScript**.
 This calculator is a great project for demonstrating front-end web development skills, particularly focusing on DOM manipulation with JavaScript.
 
  ALL THREE CODES OF **HTML**,**CSS**,**JAVASCRIPT** ARE IN THE ABOVE FOLDER
+
+## Demo
+
+https://chinmay3775.github.io/SELF-PROJECTS-/
