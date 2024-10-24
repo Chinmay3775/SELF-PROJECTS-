@@ -14,4 +14,4 @@ This calculator is a great project for demonstrating front-end web development s
 
 ## Demo
 
-https://chinmay3775.github.io/SELF-PROJECTS-/
+https://chinmay3775.github.io/Simple-Calculator-using-HTML/
